@@ -4,11 +4,11 @@ Este repositório contém notebook para desenvolvimento do case de flotação na
 
 ## Base de Dados
 
-A base de dados para análise está disponível em: [https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process/data](Kaggle)
+A base de dados para análise está disponível em: [Kaggle Datase](https://www.kaggle.com/datasets/edumagalhaes/quality-prediction-in-a-mining-process/data)
 
 ## Apresentação
 
-Os slides com a apresentação do case estão disponíveis no link: [https://docs.google.com/presentation/d/1PyUaAru2rNrS0IEMQpmH3RHYBG3T_cAlDcbmU0aImv8/edit#slide=id.p](Apresentação Google Slides)
+Os slides com a apresentação do case estão disponíveis no link: [Apresentação Google Slides](https://docs.google.com/presentation/d/1PyUaAru2rNrS0IEMQpmH3RHYBG3T_cAlDcbmU0aImv8/edit#slide=id.p)
 
 Para executar o notebook, são necessárias as bibliotecas disponíveis em:
 
